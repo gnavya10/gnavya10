@@ -2,7 +2,8 @@
 
 Hi there :wave: I'm Navya garikina, a dedicated Software Development Engineer in Test (SDET) passionate about ensuring software quality and creating seamless user experiences. Skilled in both manual and automated testing, I enjoy designing test strategies and frameworks that make applications robust and reliable.
 
-![image](https://github.com/user-attachments/assets/1fc4421a-ca20-482f-a8ba-eaf850e9337d)
+![image](https://github.com/user-attachments/assets/8a223f78-f5c2-4b35-86c4-56b185d0d85f)
+
 
 
 <!--
