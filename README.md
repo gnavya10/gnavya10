@@ -2,7 +2,8 @@
 
 Hi there :wave: I'm Navya garikina, a dedicated Software Development Engineer in Test (SDET) passionate about ensuring software quality and creating seamless user experiences. Skilled in both manual and automated testing, I enjoy designing test strategies and frameworks that make applications robust and reliable.
 
-![image](https://github.com/user-attachments/assets/6c586d33-4f94-4c61-aa3c-04b404aa12d0)
+![image](https://github.com/user-attachments/assets/1fc4421a-ca20-482f-a8ba-eaf850e9337d)
+
 
 <!--
 **gnavya10/gnavya10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
